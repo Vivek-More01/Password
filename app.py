@@ -2,7 +2,6 @@ import streamlit as st
 import random
 import string
 import time
-import bcrypt
 import hashlib
 import pandas as pd
 import plotly.express as px
