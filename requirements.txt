@@ -2,8 +2,6 @@ streamlit
 random
 string
 time
-bcrypt
-hashlib
 pandas
 plotly
 zxcvbn
